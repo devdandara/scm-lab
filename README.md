@@ -1,0 +1,2 @@
+# scm-lab
+Atividade prática de gerenciamento de configuração de software
