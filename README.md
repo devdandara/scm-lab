@@ -13,3 +13,14 @@ Praticar o uso do Git e GitHub, trabalhando com repositórios, branches, issues,
 
 - Git
 - GitHub
+
+
+# Aprendizados
+
+Nesta atividade estou praticando:
+
+- Criação de repositórios
+- Controle de versões
+- Uso de branches
+- Issues e Pull Requests
+- Revisão de código
