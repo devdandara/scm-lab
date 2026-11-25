@@ -1,7 +1,7 @@
 # scm-lab
 Atividade prática de gerenciamento de configuração de software
 
-#SCM Lab
+# SCM Lab
 
 Atividade prática de Gerenciamento de Configuração de Software.
 
@@ -9,7 +9,7 @@ Atividade prática de Gerenciamento de Configuração de Software.
  
 Praticar o uso do Git e GitHub, trabalhando com repositórios, branches, issues, commits e pull requests.
 
-#Tecnologias
+# Tecnologias
 
 - Git
 - GitHub
